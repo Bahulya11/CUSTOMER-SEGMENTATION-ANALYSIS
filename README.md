@@ -18,7 +18,7 @@ _The aim of this data analytics project is to perform customer segmentation anal
 
 5. Visualization: Create visualizations (e.g., scatter plots, bar charts) to illustrate customer segments.
 
-6.Insights and Recommendations: Analyze characteristics of each segment and provide insights.
+6. Insights and Recommendations: Analyze characteristics of each segment and provide insights.
 
 ![image](https://github.com/user-attachments/assets/6b114d6d-5754-4557-a691-652e4fcd8906)
 ![image](https://github.com/user-attachments/assets/e6a90159-c762-49f6-90cc-3fcf537dbd38)
